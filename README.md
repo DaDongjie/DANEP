@@ -2,7 +2,7 @@
 Deep Attributed network Eembedding based on the PPMI
 
 
-# Database
+# Database (Datasets)
 链接：https://pan.baidu.com/s/1eeDWIWyD3_Ve3sDPixebKw 
 提取码：vgb1
 
